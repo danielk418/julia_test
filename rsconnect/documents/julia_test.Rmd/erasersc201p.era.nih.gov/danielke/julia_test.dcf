@@ -1,0 +1,13 @@
+name: julia_test
+title: julia_test
+username: danielke
+account: danielke
+server: erasersc201p.era.nih.gov
+hostUrl: https://erasersc201p.era.nih.gov/__api__
+appId: 130
+bundleId: 240
+url: https://erasersc201p.era.nih.gov:443/content/6651ffe5-7fe6-4bd6-a41a-ed14e624f495/
+when: 1632419237.09692
+lastSyncTime: 1632419237.09692
+asMultiple: FALSE
+asStatic: FALSE
